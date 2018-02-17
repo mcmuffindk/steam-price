@@ -3,6 +3,7 @@
 [![Known Vulnerabilities](https://snyk.io/test/npm/steam-price/badge.svg)](https://snyk.io/test/npm/steam-price?tab=dependencies&vulns=all)
 [![license](https://img.shields.io/badge/license-MIT-green.svg)](https://www.npmjs.com/package/steam-price)
 [![npm downloads](https://img.shields.io/npm/dt/steam-price.svg)](https://www.npmjs.com/package/steam-price)
+[![DigitalOcean](https://img.shields.io/badge/digital-ocean-blue.svg)](https://m.do.co/c/3e4582b6db4d)
 
 **steam-price** uses the [@opskins/api](https://www.npmjs.com/package/@opskins/api) module to get item prices for multiple apps
 

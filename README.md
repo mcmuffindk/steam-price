@@ -1,6 +1,6 @@
 # steam-price
 [![npm version](https://img.shields.io/npm/v/steam-price.svg)](https://www.npmjs.com/package/steam-price)
-[![Known Vulnerabilities](https://snyk.io/test/npm/steam-price/badge.svg)](https://snyk.io/test/npm/steam-price?tab=dependencies)
+[![Known Vulnerabilities](https://snyk.io/test/npm/steam-price/badge.svg)](https://snyk.io/test/npm/steam-price?tab=dependencies&vulns=all)
 [![license](https://img.shields.io/badge/license-MIT-green.svg)](https://www.npmjs.com/package/steam-price)
 [![npm downloads](https://img.shields.io/npm/dt/steam-price.svg)](https://www.npmjs.com/package/steam-price)
 

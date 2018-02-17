@@ -1,0 +1,22 @@
+{
+  "name": "steam-price",
+  "version": "0.1.1",
+  "description": "Get's prices from the OPSkins API",
+  "main": "index.js",
+  "scripts": {
+    "test": " "
+  },
+  "keywords": [
+    "Steam",
+    "Pricing",
+    "Price",
+    "OPSkins",
+    "API",
+    "Simple"
+  ],
+  "author": "McMuffinDK",
+  "license": "MIT",
+  "dependencies": {
+    "@opskins/api": "^1.4.2"
+  }
+}

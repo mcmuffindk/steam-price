@@ -17,6 +17,6 @@
   "author": "McMuffinDK",
   "license": "MIT",
   "dependencies": {
-    "@opskins/api": "^1.4.2"
+    "@opskins/api": "^1.6.0"
   }
 }
